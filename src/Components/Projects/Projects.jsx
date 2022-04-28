@@ -55,8 +55,8 @@ const Projects = () => {
       image: "/project_images/project-3.png",
       project_desc:
         "Its an omline food app, where you can oreder your food online and get delvery as qucikly as possible.",
-      deploy_link: "https://growww-clone.netlify.app/",
-      repo_link: "https://github.com/saikiran11461/foodwebsite",
+      deploy_link: "https://new-food-website.vercel.app/",
+      repo_link: "https://github.com/saikiran11461/new_food-website",
       tech_stack: [
         <FaHtml5 />,
         <FaCss3 />,
@@ -70,8 +70,8 @@ const Projects = () => {
       image: "/project_images/project-4.png",
       project_desc:
         "Bluemercury is an US based Cosmetics store. Built using HTML, CSS and JavaScript. ",
-      deploy_link: "https://bluemercuryclone.netlify.app/",
-      repo_link: "https://github.com/saikiran11461/todo-list",
+      deploy_link: "https://new-sticky-notes.vercel.app/",
+      repo_link: "https://github.com/saikiran11461/new_sticky-notes",
       tech_stack: [<FaHtml5 />, <FaCss3 />, <FaJs />],
     },
     {
@@ -79,9 +79,9 @@ const Projects = () => {
       project_name: "Movies app",
       image: "/project_images/project-5.png",
       project_desc:
-        "Bluemercury is an US based Cosmetics store. Built using HTML, CSS and JavaScript. ",
-      deploy_link: "https://bluemercuryclone.netlify.app/",
-      repo_link: "https://github.com/saikiran11461/todo-list",
+        "A basic Movies app shows movies data. Built using HTML, CSS and JavaScript. ",
+      deploy_link: "https://new-movies-app.vercel.app/",
+      repo_link: "https://github.com/saikiran11461/new_movies_app",
       tech_stack: [<FaHtml5 />, <FaCss3 />, <FaJs />],
     },
     {
@@ -89,9 +89,9 @@ const Projects = () => {
       project_name: "Calculator app",
       image: "/project_images/project-6.png",
       project_desc:
-        "Bluemercury is an US based Cosmetics store. Built using HTML, CSS and JavaScript. ",
-      deploy_link: "https://bluemercuryclone.netlify.app/",
-      repo_link: "https://github.com/saikiran11461/todo-list",
+        " A basic calculator app with dark and light togle. Built using HTML, CSS and JavaScript. ",
+      deploy_link: "https://calc-new-three.vercel.app/",
+      repo_link: "https://github.com/saikiran11461/calc_new",
       tech_stack: [<FaHtml5 />, <FaCss3 />, <FaJs />],
     },
 
