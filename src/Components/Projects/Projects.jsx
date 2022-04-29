@@ -89,7 +89,7 @@ const Projects = () => {
       project_name: "Calculator app",
       image: "/project_images/project-6.png",
       project_desc:
-        " A basic calculator app with dark and light togle. Built using HTML, CSS and JavaScript. ",
+        " A basic calculator app with togle. Built using HTML, CSS and JavaScript. ",
       deploy_link: "https://calc-new-three.vercel.app/",
       repo_link: "https://github.com/saikiran11461/calc_new",
       tech_stack: [<FaHtml5 />, <FaCss3 />, <FaJs />],
