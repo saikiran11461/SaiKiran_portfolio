@@ -54,7 +54,7 @@ const Projects = () => {
       project_name: "food website",
       image: "/project_images/project-3.png",
       project_desc:
-        "Its an omline food app, where you can oreder your food online and get delvery as qucikly as possible.",
+        " An E-commerce food website online delvery as Quick.",
       deploy_link: "https://new-food-website.vercel.app/",
       repo_link: "https://github.com/saikiran11461/new_food-website",
       tech_stack: [
