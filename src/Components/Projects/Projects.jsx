@@ -69,7 +69,7 @@ const Projects = () => {
       project_name: "Notes app",
       image: "/project_images/project-4.png",
       project_desc:
-        "Bluemercury is an US based Cosmetics store. Built using HTML, CSS and JavaScript. ",
+        "created a Basic Sticky Notes app. Built using HTML, CSS and JavaScript. ",
       deploy_link: "https://new-sticky-notes.vercel.app/",
       repo_link: "https://github.com/saikiran11461/new_sticky-notes",
       tech_stack: [<FaHtml5 />, <FaCss3 />, <FaJs />],
