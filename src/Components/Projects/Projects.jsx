@@ -150,21 +150,21 @@ const Projects = () => {
        
       ],
     },
-    {
-      id: 12,
-      project_name: " Movies app",
-      image: "/project_images/project-9.png",
-      project_desc:
-        "Made a site about showing movies",
-      deploy_link: "https://new-movies-app.vercel.app/",
-      repo_link: "https://github.com/saikiran11461/new_movies_app",
-      tech_stack: [
-        <FaHtml5 />,
-        <FaCss3 />,
-        <FaJs />,
+    // {
+    //   id: 12,
+    //   project_name: " Movies app",
+    //   image: "/project_images/project-9.png",
+    //   project_desc:
+    //     "Made a site about showing movies",
+    //   deploy_link: "https://new-movies-app.vercel.app/",
+    //   repo_link: "https://github.com/saikiran11461/new_movies_app",
+    //   tech_stack: [
+    //     <FaHtml5 />,
+    //     <FaCss3 />,
+    //     <FaJs />,
        
-      ],
-    },
+    //   ],
+    // },
  
    
   ];
